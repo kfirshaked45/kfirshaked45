@@ -1,7 +1,7 @@
 # Welcome to My GitHub Repository!
 
 ## About Me
-Hey there! 👋 I'm Kfir Shaked, a passionate full-stack developer based in Israel and currently in my final year of a Computer Science degree at the Holon Institute of Technology (HIT). I love building software that solves real-world problems and enhances people's lives. With experience in both frontend and backend technologies, game development, and network programming, I strive to create elegant, scalable, and efficient solutions.
+Hey there! 👋 I'm Kfir Shaked, a developer based in Israel and currently in my final year of a Computer Science degree at the Holon Institute of Technology (HIT). I love building software that interests me,If it's Games or just helpful stuff. With experience in both frontend and backend technologies, game development, and network programming, I strive to create elegant, scalable, and efficient solutions.
 
 ## Contact Me
 - **Phone**: +972 525556286
